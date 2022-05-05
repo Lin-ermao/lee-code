@@ -43,3 +43,4 @@ gen/
 hs_err_pid*
 /out/
 /.idea/
+*.iml
