@@ -3,8 +3,8 @@ package test;
 import java.lang.reflect.Method;
 
 public class TestMain {
-    private static final String TYPE = "hard";
-    private static final int QUESTION_NO = 4;
+    private static final String TYPE = "easy";
+    private static final int QUESTION_NO = 929;
     private static final String CLASS_NAME = String.format("code.%s.q%d.Solution", TYPE, QUESTION_NO);
 
     private static Executable getExecuteAbleInstance() throws Exception {
@@ -13,7 +13,7 @@ public class TestMain {
         TestAble testInstance = (TestAble) instance;
         Method method = testInstance.getTestMethod();
         return new Executable(instance, method, new Object[] {
-                new int[] {1}, new int[]{}
+                new String[] {"test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com"}
         });
     }
 
