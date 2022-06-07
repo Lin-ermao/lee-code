@@ -1,4 +1,4 @@
-package code.hard.q488;
+package code.q488;
 
 
 import test.TestAble;

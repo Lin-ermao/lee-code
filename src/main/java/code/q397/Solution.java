@@ -1,4 +1,4 @@
-package code.normal.q397;
+package code.q397;
 
 import test.TestAble;
 

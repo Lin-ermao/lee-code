@@ -1,4 +1,4 @@
-package code.easy.q563;
+package code.q563;
 
 import test.TestAble;
 import test.TreeNode;

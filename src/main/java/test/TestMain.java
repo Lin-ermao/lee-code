@@ -3,9 +3,8 @@ package test;
 import java.lang.reflect.Method;
 
 public class TestMain {
-    private static final String TYPE = "easy";
     private static final int QUESTION_NO = 929;
-    private static final String CLASS_NAME = String.format("code.%s.q%d.Solution", TYPE, QUESTION_NO);
+    private static final String CLASS_NAME = String.format("code.q%d.Solution", QUESTION_NO);
 
     private static Executable getExecuteAbleInstance() throws Exception {
         Class<?> solutionClass = Class.forName(CLASS_NAME);

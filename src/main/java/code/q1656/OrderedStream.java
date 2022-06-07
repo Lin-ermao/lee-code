@@ -1,4 +1,4 @@
-package code.easy.q1656;
+package code.q1656;
 
 import java.util.Collections;
 import java.util.LinkedList;

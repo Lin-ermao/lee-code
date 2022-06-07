@@ -1,4 +1,4 @@
-package code.normal.q3;
+package code.q3;
 
 import test.TestAble;
 

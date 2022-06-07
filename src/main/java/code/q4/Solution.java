@@ -1,14 +1,9 @@
-package code.hard.q4;
+package code.q4;
 
 
 import test.TestAble;
 
 import java.lang.reflect.Method;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
 
 /**
  *

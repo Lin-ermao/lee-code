@@ -1,4 +1,4 @@
-package code.easy.q929;
+package code.q929;
 
 import test.TestAble;
 

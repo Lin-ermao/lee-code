@@ -1,4 +1,4 @@
-package code.normal.q435;
+package code.q435;
 
 public class Solution {
     public int eraseOverlapIntervals(int[][] intervals) {

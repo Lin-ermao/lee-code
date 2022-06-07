@@ -1,4 +1,4 @@
-package code.normal.q2;
+package code.q2;
 
 
 import test.ListNode;

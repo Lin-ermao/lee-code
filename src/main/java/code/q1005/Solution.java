@@ -1,4 +1,4 @@
-package code.easy.q1005;
+package code.q1005;
 
 import test.TestAble;
 

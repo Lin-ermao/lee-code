@@ -1,4 +1,4 @@
-package code.normal.q807;
+package code.q807;
 
 import test.TestAble;
 

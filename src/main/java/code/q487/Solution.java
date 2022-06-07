@@ -1,4 +1,4 @@
-package code.normal.q487;
+package code.q487;
 
 import java.util.Arrays;
 

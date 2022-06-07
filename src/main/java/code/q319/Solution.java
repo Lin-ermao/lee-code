@@ -1,4 +1,4 @@
-package code.normal.q319;
+package code.q319;
 
 import test.TestAble;
 
