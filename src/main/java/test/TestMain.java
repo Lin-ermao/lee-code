@@ -3,7 +3,7 @@ package test;
 import java.lang.reflect.Method;
 
 public class TestMain {
-    private static final int QUESTION_NO = 875;
+    private static final int QUESTION_NO = 1037;
     private static final String CLASS_NAME = String.format("code.q%d.Solution", QUESTION_NO);
 
     private static Executable getExecuteAbleInstance() throws Exception {
@@ -13,7 +13,7 @@ public class TestMain {
         Method method = testInstance.getTestMethod();
         int[] piles = DataConverter.convert2Arr(DataConverter.readInputStr());
         return new Executable(instance, method, new Object[] {
-                piles, 852363915
+               new int[][] {{1,0},{2,0},{3, 1}}
         });
     }
 
