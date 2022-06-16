@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
     <version>0.0.1-SNAPSHOT</version>
-    <artifactId>lee-code</artifactId>
+    <artifactId>leetCode</artifactId>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
